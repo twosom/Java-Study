@@ -5,12 +5,14 @@
 >
 > 과제 repository는 [이곳](https://github.com/whiteship/live-study/issues?q=is%3Aissue+is%3Aclosed)에서 확인하실 수 있습니다.
 
-
 ### # 1주차
 
 * [JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가](week1/week1.md)
 
-
 ### # 2주차
 
 * [자바 데이터 타입, 변수 그리고 배열](week2/week2.md)
+
+### # 3주차
+
+* [연산자](week3/week3.md)
